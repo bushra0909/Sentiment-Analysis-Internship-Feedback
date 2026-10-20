@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Sentiment-Analysis-Internship-Feedback
 =======
-# Sentiment Analysis of Internship Feedback
+Description:
 
->>>>>>> cdfde5a (sentiment analysis project)
+>>>>>>>  (sentiment analysis project)
 This project is a Machine Learning and NLP-based web application that analyzes internship feedback and predicts whether the sentiment is positive or negative.
 
 ## Features
